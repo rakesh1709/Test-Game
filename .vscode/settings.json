@@ -1,6 +1,0 @@
-{
-    "python.pythonPath": "/bin/python3",
-    "code-runner.runInTerminal": true,
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true
-}
