@@ -1,5 +1,7 @@
 
 def display_game(game_list):
+
+    #Display current list
     print("Here is the current list")
     print(game_list)
 
