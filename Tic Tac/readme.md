@@ -1,0 +1,1 @@
+A simple Test game which uses 'input' function and places a string after taking input from user.
